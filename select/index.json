@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "EDEN",
+  "base_artist": "GeG",
+  "createdAt": "2026-03-06T02:29:53.241929Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eden",
+      "artist": "Au5 feat. Danyka Nadeau",
+      "has_synced": true,
+      "path": "select/01_Eden_Au5_feat._Danyka_Nadeau.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Eden",
+      "artist": "Au5, Danyka Nadeau",
+      "has_synced": true,
+      "path": "select/02_Eden_Au5,_Danyka_Nadeau.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Kind of Eden",
+      "artist": "The Orchids",
+      "has_synced": false,
+      "path": "select/03_A_Kind_of_Eden_The_Orchids.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Columbia - Eden Studios Mix",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/04_Columbia_-_Eden_Studios_Mix_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Columbia (Eden Studios Mix)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/05_Columbia_(Eden_Studios_Mix)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Screamadelica - Eden Studio Demo",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/06_Screamadelica_-_Eden_Studio_Demo_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shine Like Stars - Eden Studio Demo",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/07_Shine_Like_Stars_-_Eden_Studio_Demo_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Running Like That (feat. Eden Samara)",
+      "artist": "Loraine James",
+      "has_synced": false,
+      "path": "select/08_Running_Like_That_(feat._Eden_Samara)_Loraine_James.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Deliver Us (Con Eden Riegel)",
+      "artist": "Ofra Haza",
+      "has_synced": true,
+      "path": "select/09_Deliver_Us_(Con_Eden_Riegel)_Ofra_Haza.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Garden of Eden",
+      "artist": "Jam & Spoon",
+      "has_synced": true,
+      "path": "select/10_Garden_of_Eden_Jam_&_Spoon.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rise (Jonas Blue & Eden Prince Club Mix)",
+      "artist": "Jonas Blue feat. Jack & Jack",
+      "has_synced": false,
+      "path": "select/11_Rise_(Jonas_Blue_&_Eden_Prince_Club_Mix)_Jonas_Blue_feat._Jack_&_Jack.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rise (Jonas Blue & Eden Prince club mix)",
+      "artist": "Jonas Blue",
+      "has_synced": false,
+      "path": "select/12_Rise_(Jonas_Blue_&_Eden_Prince_club_mix)_Jonas_Blue.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Eden",
+      "artist": "Sevdaliza",
+      "has_synced": true,
+      "path": "select/13_Eden_Sevdaliza.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Eden - Live at Koningin Elisabethzaal 2012",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/14_Eden_-_Live_at_Koningin_Elisabethzaal_2012_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Eden",
+      "artist": "Ben Khan",
+      "has_synced": true,
+      "path": "select/15_Eden_Ben_Khan.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Gates of Eden",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/16_Gates_of_Eden_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Forbidden Fruits Of Eden",
+      "artist": "AURORA",
+      "has_synced": true,
+      "path": "select/17_The_Forbidden_Fruits_Of_Eden_AURORA.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Eden",
+      "artist": "Scandroid",
+      "has_synced": true,
+      "path": "select/18_Eden_Scandroid.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Eden",
+      "artist": "Scandroid",
+      "has_synced": false,
+      "path": "select/19_Eden_Scandroid.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EDEN (feat. にしな & 唾奇)",
+      "artist": "GeG",
+      "has_synced": false,
+      "path": "select/pl_01_EDEN_(feat._にしな_&_唾奇)_GeG.txt"
+    }
+  ]
+}
